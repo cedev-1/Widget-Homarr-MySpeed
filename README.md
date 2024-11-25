@@ -17,8 +17,8 @@ This project creates a widget that displays network performance metrics (Ping, D
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/myspeed-dashboard-widget.git
-   cd myspeed-dashboard-widget
+   git clone https://github.com/cedev-1/Widget-Homarr-MySpeed
+   cd Widget-Homarr-MySpeed
     ```
 
 2. Build the Docker image using the Dockerfile:
