@@ -2,13 +2,13 @@
 
 This project creates a widget that displays network performance metrics (Ping, Download, Upload) based on data from a **Myspeed** instance. You can choose between two display formats: **Large** or **Medium**.
 
-![Myspeed Dashboard Widget](./exemple/large.png) ![Myspeed Dashboard Widget](./exemple/medium.png)
+![Myspeed Dashboard Widget](./exemple/large.PNG) ![Myspeed Dashboard Widget](./exemple/medium.png)
 
 ---
 
 ## Prerequisites
 
-1. **Myspeed** must be installed and accessible. You need the API URL (e.g., `http://192.168.0.9:5216/api/speedtests?hours=24`).
+1. **Myspeed** must be installed and accessible. You need the API URL (e.g., `http://URL/api/speedtests?hours=24`).
 2. **Docker** must be installed on your system. [Docker Installation Guide](https://docs.docker.com/get-docker/).
 
 ---
