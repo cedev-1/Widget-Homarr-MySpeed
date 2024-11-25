@@ -8,7 +8,7 @@ def index():
 
     # USE URL OF MYSPEED (for api)
 #----------------------------------------------------------------------------------
-    url = "http://192.168.0.9:5216/api/speedtests?hours=24"
+    url = "http://MYSPEED_URL/api/speedtests?hours=24"
 #----------------------------------------------------------------------------------
     
     response = requests.get(url)
