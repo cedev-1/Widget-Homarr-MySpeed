@@ -32,8 +32,7 @@ Before starting the project, you need to configure the following:
 
     API URL for Myspeed
     Edit the app.py file to specify your Myspeed API URL:
-
-url = "http://<MYSPEED_IP>:5216/api/speedtests?hours=24"
+    url = "http://<MYSPEED_IP>:5216/api/speedtests?hours=24"
 
 Choose Display Format
 By default, the app.py file uses large.html. You can switch to medium.html by editing the template rendering
