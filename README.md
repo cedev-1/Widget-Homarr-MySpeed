@@ -41,8 +41,7 @@ By default, the app.py file uses large.html. You can switch to medium.html by ed
 ## Running the Project
 
     Start the Docker container:
-
-docker run -d -p 8765:8765 myspeed-widget
+    docker run -d -p 8765:8765 myspeed-widget
 
 Open your browser and navigate to:
 http://localhost:8765
