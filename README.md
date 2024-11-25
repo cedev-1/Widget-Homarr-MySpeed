@@ -2,8 +2,7 @@
 
 This project creates a widget that displays network performance metrics (Ping, Download, Upload) based on data from a **Myspeed** instance. You can choose between two display formats: **Large** or **Medium**.
 
-![Myspeed Dashboard Widget](./exemple/large.png)
-![Myspeed Dashboard Widget](./exemple/medium.png)
+![Myspeed Dashboard Widget](./exemple/large.png) ![Myspeed Dashboard Widget](./exemple/medium.png)
 
 ---
 
